@@ -22,4 +22,4 @@ docker run -p 8080:8080 my-app
 
 ## Image
 
-![Hier sollte ein Bild von meinem Hund sein](images/Kuma)
+![Hier sollte ein Bild von meinem Hund sein](images/Kuma.png)
